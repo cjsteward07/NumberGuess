@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WFlQYEe7/rSP/xZg+29ekQHbLXFyfW6HJc7t4Le1D4ql2gg9OSv1VR/vVzABEIJvGq2ILj8D2JjleIRUMRScKQ==",
+  "dgSpecHash": "M+nlcIn8cVI+XSBXGTIsBLYDI+X7Zs+uLR8ZuzPhiNduRKxCI0Ec4o5xau8pDlJdemT5Wqp5hOsLosX+/hRwtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Colin\\Documents\\git\\Guess a Number\\Guess a Number\\Guess a Number.csproj",
+  "projectFilePath": "/home/colin/Documents/git/practice/NumberGuess/Guess a Number/Guess a Number.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
