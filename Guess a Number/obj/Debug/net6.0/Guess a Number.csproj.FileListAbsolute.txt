@@ -1,0 +1,15 @@
+C:\Users\Colin\Documents\git\Guess a Number\Guess a Number\bin\Debug\net6.0\Guess a Number.exe
+C:\Users\Colin\Documents\git\Guess a Number\Guess a Number\bin\Debug\net6.0\Guess a Number.deps.json
+C:\Users\Colin\Documents\git\Guess a Number\Guess a Number\bin\Debug\net6.0\Guess a Number.runtimeconfig.json
+C:\Users\Colin\Documents\git\Guess a Number\Guess a Number\bin\Debug\net6.0\Guess a Number.dll
+C:\Users\Colin\Documents\git\Guess a Number\Guess a Number\bin\Debug\net6.0\Guess a Number.pdb
+C:\Users\Colin\Documents\git\Guess a Number\Guess a Number\obj\Debug\net6.0\Guess a Number.csproj.AssemblyReference.cache
+C:\Users\Colin\Documents\git\Guess a Number\Guess a Number\obj\Debug\net6.0\Guess a Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colin\Documents\git\Guess a Number\Guess a Number\obj\Debug\net6.0\Guess a Number.AssemblyInfoInputs.cache
+C:\Users\Colin\Documents\git\Guess a Number\Guess a Number\obj\Debug\net6.0\Guess a Number.AssemblyInfo.cs
+C:\Users\Colin\Documents\git\Guess a Number\Guess a Number\obj\Debug\net6.0\Guess a Number.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\git\Guess a Number\Guess a Number\obj\Debug\net6.0\Guess a Number.dll
+C:\Users\Colin\Documents\git\Guess a Number\Guess a Number\obj\Debug\net6.0\refint\Guess a Number.dll
+C:\Users\Colin\Documents\git\Guess a Number\Guess a Number\obj\Debug\net6.0\Guess a Number.pdb
+C:\Users\Colin\Documents\git\Guess a Number\Guess a Number\obj\Debug\net6.0\Guess a Number.genruntimeconfig.cache
+C:\Users\Colin\Documents\git\Guess a Number\Guess a Number\obj\Debug\net6.0\ref\Guess a Number.dll
